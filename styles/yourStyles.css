@@ -12,3 +12,11 @@
 .dannileb-sign:hover{
     color: violet;
 }
+
+.dannileb2-image-wrapper{
+    background-color: aqua;
+}
+.dannileb2-image{
+    height: 256px;
+    object-fit: contain;
+}
