@@ -12,3 +12,17 @@
 .dannileb-sign:hover{
     color: violet;
 }
+
+/*Ваши стили*/
+.VyBoM-image{
+    background-color: grey;
+}
+.VyBoM-text{
+    color: white;
+}
+.VyBoM-sign{
+    color:rgba(50, 218, 28, 0.671);
+}
+.VyBoM-sign:hover{
+    color: rgb(81, 190, 60);
+}
