@@ -12,3 +12,20 @@
 .dannileb-sign:hover{
     color: violet;
 }
+
+.winter-image{
+	background-color: rgb(51, 40, 40);
+}
+.winter-text{
+	color: white;
+}
+.winter-sign{
+	color:blueviolet;
+}
+.winter-sign:hover{
+	color: rgb(241, 163, 241);
+}
+.winter-image2 {
+	height: 350px;
+	width: 450px;
+}
