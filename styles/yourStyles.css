@@ -13,6 +13,7 @@
     color: violet;
 }
 
+
 /*Ваши стили*/
 .VyBoM-image{
     background-color: grey;
@@ -25,4 +26,28 @@
 }
 .VyBoM-sign:hover{
     color: rgb(81, 190, 60);
+.edw1s-image{
+    background-color: black;
+}
+.edw1s-text{
+    color: white;
+}
+.edw1s-sign{
+    color:blueviolet;
+}
+.edw1s-sign:hover{
+    color: violet;
+}
+
+.nebot-image{
+    background-color: black;
+}
+.nebot-text{
+    color: wheat;
+}
+.nebot-sign{
+    color:blue;
+}
+.nebot-sign:hover{
+    color: blue;
 }
